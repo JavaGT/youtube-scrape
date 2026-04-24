@@ -19,5 +19,9 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^8.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JavaGT/youtube-scrape.git"
   }
 }
