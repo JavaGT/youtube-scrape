@@ -1,0 +1,23 @@
+{
+  "name": "youtube-scrape",
+  "version": "1.0.2",
+  "description": "API for searching youtube via web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "you",
+    "tube",
+    "scrape",
+    "video",
+    "search",
+    "query"
+  ],
+  "author": "JavaGT",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^8.0.4"
+  }
+}
