@@ -1,6 +1,6 @@
 {
   "name": "youtube-scrape",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "API for searching youtube via web scraping",
   "main": "index.js",
   "scripts": {
